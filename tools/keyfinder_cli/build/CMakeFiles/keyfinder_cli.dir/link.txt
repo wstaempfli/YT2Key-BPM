@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/keyfinder_cli.dir/main.cpp.o -o keyfinder_cli  libkeyfinder_local.a /opt/homebrew/lib/libfftw3.dylib

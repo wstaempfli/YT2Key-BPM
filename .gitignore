@@ -15,14 +15,23 @@ cmake-build-*/
 CMakeCache.txt
 CMakeFiles/
 tools/keyfinder_cli/build/
+plugin/build/
 
 # Downloaded/test media artifacts
 downloads/
 downloads_test/
 downloads_test_limit3/
 downloads_test_full/
+downloads_vst_single/
+downloads_vst_playlist/
+downloads_vst_api_single/
+downloads_vst_api_playlist/
+downloads_proxy_fix_test/
 collision_test/
 *.analysis.wav
+
+# Companion runtime state
+service/state/
 
 # Misc local outputs
 *.log

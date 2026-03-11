@@ -1,0 +1,29 @@
+# macOS / editor noise
+.DS_Store
+.vscode/
+
+# Python environment and caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# CMake / native build outputs
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+tools/keyfinder_cli/build/
+
+# Downloaded/test media artifacts
+downloads/
+downloads_test/
+downloads_test_limit3/
+downloads_test_full/
+collision_test/
+*.analysis.wav
+
+# Misc local outputs
+*.log
+*.tmp

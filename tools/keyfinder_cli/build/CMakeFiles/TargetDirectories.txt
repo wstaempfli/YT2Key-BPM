@@ -1,4 +1,0 @@
-/Users/110.wanja/Library/Mobile Documents/com~apple~CloudDocs/2026/Coding-projects26/fl script/tools/keyfinder_cli/build/CMakeFiles/keyfinder_local.dir
-/Users/110.wanja/Library/Mobile Documents/com~apple~CloudDocs/2026/Coding-projects26/fl script/tools/keyfinder_cli/build/CMakeFiles/keyfinder_cli.dir
-/Users/110.wanja/Library/Mobile Documents/com~apple~CloudDocs/2026/Coding-projects26/fl script/tools/keyfinder_cli/build/CMakeFiles/edit_cache.dir
-/Users/110.wanja/Library/Mobile Documents/com~apple~CloudDocs/2026/Coding-projects26/fl script/tools/keyfinder_cli/build/CMakeFiles/rebuild_cache.dir
